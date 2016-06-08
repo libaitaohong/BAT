@@ -3,10 +3,6 @@ package sort;
  * Created by zhanghe on 2016/6/7
  * 冒泡排序
  */
-/**
- * Created by zhanghe on 2016/6/7
- * 冒泡排序
- */
 public class BubbleSort {
     public  int[] bubbleSort(int[] A, int n){
         int temp;
